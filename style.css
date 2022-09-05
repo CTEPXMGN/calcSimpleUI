@@ -1,0 +1,23 @@
+body {
+    background-color: #1E1E1E;
+}
+
+.wrapper {
+    width: 800px;
+    height: 800px;
+    background-color: rgb(250, 240, 228);
+    border: 1px solid black;
+    border-radius: 10%;
+    margin: 50px auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.wrapper-calc {
+    margin: 50px 100px;
+}
+
+input {
+    width: 95px;
+}
