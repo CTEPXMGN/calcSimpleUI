@@ -44,6 +44,8 @@ resultButton.addEventListener('click', function() {
     };
 });
 
+// Сохраняем результат
+
 function addResult(num) {
     let div = document.createElement('div');
     div.textContent = num;
